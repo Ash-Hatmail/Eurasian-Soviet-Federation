@@ -1,0 +1,196 @@
+{
+  "bounds": [
+    132.5,
+    -35,
+    115.5,
+    -29,
+    112,
+    -47,
+    58,
+    -43.5,
+    36,
+    -27.5,
+    17.5,
+    -30,
+    6,
+    -34,
+    4.5,
+    -56,
+    -4,
+    -86,
+    -28.5,
+    -103,
+    -136.5,
+    -95.5,
+    -136.5,
+    95.5,
+    -28.5,
+    103,
+    -4,
+    86,
+    4.5,
+    56,
+    6,
+    34,
+    17.5,
+    30,
+    36,
+    27.5,
+    58,
+    43.5,
+    112,
+    47,
+    115.5,
+    29,
+    132.5,
+    35
+  ],
+  "builtInWings": [],
+  "center": [
+    240.5,
+    254
+  ],
+  "collisionRadius": 210.5,
+  "coversColor": "\r\r",
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -137,
+        -5
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": -180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -137,
+        5
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -136,
+        -19.5
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": -180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -136,
+        19.5
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -136,
+        -33
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": -180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -136,
+        33
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": 180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -137.5,
+        -45
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    },
+    {
+      "angle": -180,
+      "contrailSize": 30,
+      "length": 30,
+      "location": [
+        -137.5,
+        45
+      ],
+      "style": "LOW_TECH",
+      "width": 10
+    }
+  ],
+  "height": 500,
+  "hullId": "BC_test_1",
+  "hullName": "BC-01\r",
+  "hullSize": "CRUISER",
+  "shieldCenter": [
+    0,
+    -0.5
+  ],
+  "shieldRadius": 183.5,
+  "spriteName": "graphics/ships/BC_test_1.png\r",
+  "style": "MIDLINE",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 360,
+      "id": "WS0001",
+      "locations": [
+        86,
+        -5
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "UNIVERSAL"
+    },
+    {
+      "angle": -177.5,
+      "arc": 360,
+      "id": "WS0002",
+      "locations": [
+        -11.5,
+        75
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "LAUNCH_BAY"
+    },
+    {
+      "angle": 177.5,
+      "arc": 360,
+      "id": "WS0003",
+      "locations": [
+        -11,
+        -81
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "LAUNCH_BAY"
+    }
+  ],
+  "width": 500
+}
