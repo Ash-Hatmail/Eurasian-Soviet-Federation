@@ -51,10 +51,10 @@
     254
   ],
   "collisionRadius": 210.5,
-  "coversColor": "\r\r",
+  "coversColor": "",
   "engineSlots": [
     {
-      "angle": 180,
+      "angle": 0,
       "contrailSize": 30,
       "length": 30,
       "location": [
@@ -151,7 +151,7 @@
     -0.5
   ],
   "shieldRadius": 183.5,
-  "spriteName": "graphics/ships/BC_test_1.png\r",
+  "spriteName": "graphics/ships/BC_test_1.png",
   "style": "MIDLINE",
   "viewOffset": 0,
   "weaponSlots": [
